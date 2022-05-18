@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jeanluy
+- 🌱 I’m currently learning to code with CS50
+- 📫 You can reach me at Jeanluygarcia@gmail.com
